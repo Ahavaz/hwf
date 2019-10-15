@@ -1,0 +1,32 @@
+{
+  "wordsRead": 165500,
+  "listenTime": 4.5,
+  "totalBooks": 48,
+  "weekdaysBooks": [1, 1, 10, 3, 2, 0, 5],
+  "categories": [
+    {
+      "name": "história",
+      "ratio": 35
+    },
+    {
+      "name": "liderança",
+      "ratio": 20
+    },
+    {
+      "name": "economia",
+      "ratio": 15
+    },
+    {
+      "name": "psicologia",
+      "ratio": 12
+    },
+    {
+      "name": "tecnologia",
+      "ratio": 10
+    },
+    {
+      "name": "outros",
+      "ratio": 8
+    }
+  ]
+}
